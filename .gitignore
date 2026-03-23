@@ -1,0 +1,21 @@
+# Gradle build output
+.gradle/
+build/
+
+# Java compiled artifacts
+*.class
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
